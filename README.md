@@ -1,5 +1,5 @@
-# selenuim2
-selenuim2 基于Python
+# selenium2
+selenium2 基于Python
 
 
 - 自动化测试基础
